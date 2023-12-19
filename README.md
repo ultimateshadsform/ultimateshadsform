@@ -1,7 +1,9 @@
 <h1 align="center">🖤 SHADOW 🖤</h1>
 
 ## Whoami?
-<pre align="left">I'm a hedgehog coder. :3                                                        <a href="https://blog.spacehey.com/entry?id=991914">Link to DNI (do not interact) blog</a></pre>
+I'm a hedgehog coder. :3
+
+<a href="https://blog.spacehey.com/entry?id=991914">Link to DNI (do not interact) blog</a>
 
 <details>
 <summary>
