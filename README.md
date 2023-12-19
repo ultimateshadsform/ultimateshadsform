@@ -4,6 +4,14 @@
 
 I'm a hedgehog coder. :3
 
+<details>
+<summary>
+Click me
+</summary>
+<h2>SONIC MUSIC FUCKING SLAPS!!!!</h2>
+My playlist: https://open.spotify.com/playlist/11pXczGtb8akTJvPanRYZA?si=5037af6625704551
+</details>
+
 [Link to DNI (do not interact) blog](https://blog.spacehey.com/entry?id=991914)
 
 <img width="100%" src="https://collection.ju.mp/assets/images/gallery13/ed8a24ac.gif"/>
