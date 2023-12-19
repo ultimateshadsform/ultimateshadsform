@@ -14,7 +14,7 @@ My playlist: https://open.spotify.com/playlist/11pXczGtb8akTJvPanRYZA?si=5037af6
 
 [Link to DNI (do not interact) blog](https://blog.spacehey.com/entry?id=991914)
 
-<img width="100%" src="https://collection.ju.mp/assets/images/gallery13/ed8a24ac.gif"/>
+<img width="100%" src="https://www.gifcen.com/wp-content/uploads/2022/05/shadow-the-hedgehog-gif.gif"/>
 <img width="100%" src="https://media3.giphy.com/media/mdfPpglf2c0QxED151/giphy.gif"/>
 <img align="center" width="100%" src="https://dummyimage.com/1920x360/ff/00.png&text=%22Don't+spend+so+much+time+with+fake+people+that+you+become+fake+yourself.%22" alt="drawing"/>
 <img width="100%" src="https://giffiles.alphacoders.com/220/220848.gif"/>
