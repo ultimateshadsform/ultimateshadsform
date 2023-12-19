@@ -48,7 +48,6 @@ My playlist: https://open.spotify.com/playlist/11pXczGtb8akTJvPanRYZA?si=5037af6
 <p align="center">
 <img height="100%" src="https://collection.ju.mp/assets/images/gallery18/ab27fde1_original.gif"/>
 <img width="100%" src="https://collection.ju.mp/assets/images/gallery13/a520389d.gif"/>
-<img width="100%" src="https://collection.ju.mp/assets/images/gallery16/ecf1bde3.gif"/>
 <img width="100%" src="https://storage.modworkshop.net/mods/images/56345_1630733617_5ac27b36d6f6ae81ac6895205e2be087.gif">
 <img width="100%" src="https://i.pinimg.com/originals/22/c0/11/22c0114a8273d98d76e168eaf37d049d.gif">
 </p>
