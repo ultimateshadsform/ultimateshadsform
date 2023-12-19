@@ -1,8 +1,7 @@
 <h1 align="center">🖤 SHADOW 🖤</h1>
 
 ## Whoami?
-
-I'm a hedgehog coder. :3
+<pre align="left">I'm a hedgehog coder. :3                                                              <a href="https://blog.spacehey.com/entry?id=991914">Link to DNI (do not interact) blog</a></pre>
 
 <details>
 <summary>
@@ -11,8 +10,7 @@ Click me
 <h2>SONIC MUSIC FUCKING SLAPS!!!!</h2>
 My playlist: https://open.spotify.com/playlist/11pXczGtb8akTJvPanRYZA?si=5037af6625704551
 </details>
-
-[Link to DNI (do not interact) blog](https://blog.spacehey.com/entry?id=991914)
+</p>
 
 <img width="100%" src="https://www.gifcen.com/wp-content/uploads/2022/05/shadow-the-hedgehog-gif.gif"/>
 <img width="100%" src="https://media3.giphy.com/media/mdfPpglf2c0QxED151/giphy.gif"/>
@@ -48,7 +46,6 @@ My playlist: https://open.spotify.com/playlist/11pXczGtb8akTJvPanRYZA?si=5037af6
 <p align="center">
 <img height="100%" src="https://collection.ju.mp/assets/images/gallery18/ab27fde1_original.gif"/>
 <img width="100%" src="https://collection.ju.mp/assets/images/gallery13/a520389d.gif"/>
-<img width="100%" src="https://lastfm-recently-played.vercel.app/api?user=ultimateshdform&show_user=always&header_style=normal_stats&footer_style=wave&loved=true&loved_style=3">
 <img width="100%" src="https://collection.ju.mp/assets/images/gallery16/ecf1bde3.gif"/>
 <img width="100%" src="https://i.pinimg.com/originals/5d/5b/e3/5d5be3c9010b7cb74480c74483044aa4.jpg">
 <img width="100%" src="https://collection.ju.mp/assets/images/gallery10/17daef75_original.gif">
