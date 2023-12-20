@@ -7,7 +7,7 @@ I'm a hedgehog coder. :3
 
 <details>
 <summary>
-Click me
+Spotify
 </summary>
 <h2>SONIC MUSIC FUCKING SLAPS!!!!</h2>
 My playlist: https://open.spotify.com/playlist/11pXczGtb8akTJvPanRYZA?si=5037af6625704551
