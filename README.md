@@ -1,4 +1,4 @@
-<h1 align="center">🤍 SILVER 🤍</h1>
+<h1 align="center">☆✧🤍 SILVER 🤍✧☆</h1>
 
 ## Whoami?
 I'm a hedgehog coder. :3
