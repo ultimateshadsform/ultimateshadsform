@@ -21,6 +21,8 @@ Why haven't I thought about that before?
 
 I feel great now.
 
+I hate programming but I still do it anyways.
+
 <img width="100%" src="https://media1.tenor.com/m/S19nsqAWpWoAAAAd/happy-dance-silver-the-hedgehog.gif"/>
 <img width="100%" src="https://github.com/ultimateshadsform/ultimateshadsform/assets/151234273/7b1518ad-41f6-4b13-8e0c-bb458873b2b6"/>
 <img width="100%" src="https://github.com/ultimateshadsform/ultimateshadsform/assets/151234273/389cfc18-c567-4ce4-8160-cd3ece0e4af2"/>
