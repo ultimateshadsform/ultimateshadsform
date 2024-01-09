@@ -13,15 +13,7 @@ My playlist: <a href="https://open.spotify.com/playlist/11pXczGtb8akTJvPanRYZA?s
 </details>
 </p>
 
-You know?
-
-Deleting things you dislike from life really helps.
-
-Why haven't I thought about that before?
-
-I feel great now.
-
-I hate programming but I still do it anyways.
+Sometimes you gotta hate a person with your everything so they finally get sick of you so you can move on.
 
 <img width="100%" src="https://media1.tenor.com/m/S19nsqAWpWoAAAAd/happy-dance-silver-the-hedgehog.gif"/>
 <img width="100%" src="https://github.com/ultimateshadsform/ultimateshadsform/assets/151234273/7b1518ad-41f6-4b13-8e0c-bb458873b2b6"/>
