@@ -1,1 +1,1 @@
-<img src="https://64.media.tumblr.com/a74e504942715ca346611738d9acad41/0e36a28223810f1f-69/s1280x1920/84b166861b9b3458af1bb3e41c7f0c4a295a4997.pnj" />
+<img src="https://static.wikia.nocookie.net/sonadow/images/7/7d/Sonic_Prime_Season_2_Sonic_hugging_Shadow_%281%29.png" />
