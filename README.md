@@ -5,4 +5,5 @@
 
 I always walk my own path.
 
-A heart is like glass. If you break it, you will cut yourself on the broken pieces.
+https://github.com/user-attachments/assets/506625b8-2909-4b74-8439-ae11e7178fe4
+
